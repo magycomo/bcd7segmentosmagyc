@@ -14,7 +14,7 @@ It activates the corresponding segments to display decimal numbers from 0 to 9.
 
 ## How to test
 
-Connect four digital switches to the inputs (A, B, C, and D) to select a BCD number. 
+Connect four digital switches to the inputs (A B C and D) to select a BCD number. 
 The seven outputs (a–g) control the corresponding segments of the display. 
 Change the input switches and verify that the correct decimal number is displayed.
 
